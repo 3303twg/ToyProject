@@ -1,0 +1,25 @@
+﻿assumedClients	1000
+meanIntervalSec	360
+observeSec	120
+timeoutSec	20
+scheduled	346
+t=15	sent=40	inflight=5	ok=35	busy=0	timeout=0	fail=0
+t=30	sent=80	inflight=4	ok=76	busy=0	timeout=0	fail=0
+t=45	sent=130	inflight=8	ok=122	busy=0	timeout=0	fail=0
+t=60	sent=181	inflight=11	ok=170	busy=0	timeout=0	fail=0
+t=75	sent=224	inflight=7	ok=217	busy=0	timeout=0	fail=0
+t=90	sent=258	inflight=6	ok=252	busy=0	timeout=0	fail=0
+t=105	sent=304	inflight=11	ok=293	busy=0	timeout=0	fail=0
+t=120	sent=346	inflight=5	ok=341	busy=0	timeout=0	fail=0
+ok	346
+busy	0
+timeout	0
+fail	0
+avgSec	2.62
+maxSec	5.56
+peakInflight	16
+needPerSec	2.78
+okPerSec	2.883
+holdClients	1038
+wallSec	122.5
+firstBad	

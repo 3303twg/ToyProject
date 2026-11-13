@@ -1,0 +1,4 @@
+﻿concurrency	ok	busy	fail	avgSec	maxSec	perSec	note
+5	5	0	0	13.12	22.66	0.22	
+10	10	0	0	24.49	43.44	0.23	
+20	14	0	6	39.96	60.05	0.23	작업 시간을 초과했습니다.
